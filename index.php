@@ -27,6 +27,11 @@
 					<td class="col-md-6">Nome</td>
 					<td class="col-md-4">adm</td>
 				</tr>
+				<tr class="row">
+					<td class="col-md-2">Foto</td>
+					<td class="col-md-6">Nome</td>
+					<td class="col-md-4">adm</td>
+				</tr>
 			</table>
 		</div>
 	</div>
