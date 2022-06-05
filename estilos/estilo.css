@@ -19,5 +19,9 @@ table.listagem tr {
 }
 table.listagem td {
 	
-	border: 2px solid #ddd;S
+	border: 2px solid #ddd;
+}
+.capa{
+	height: 100px;
+	width: 200px;
 }
